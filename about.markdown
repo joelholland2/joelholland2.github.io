@@ -1,18 +1,13 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi! I'm Joel Holland
+I started my career as an operational specialist. I was very good at finding ways to make mine and others work more efficient via the use of technology. 
+This opened up opportunities to use those skills (and develop many more) to make data available in clean, digestable formats.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm passionate about developing lasting data solutions in a modern data-centered world. This has lead me to my role as a Business Intelligence Analyst.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm currently looking to network with other data professionals to continue my growth in my current and future roles.
