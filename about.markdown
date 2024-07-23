@@ -15,8 +15,8 @@ I'm currently looking to network with other data professionals to continue my gr
 ## My Skills
 ### Technical Skills
 
-{%Include technicalskills.md%}
+{%include technicalskills.md%}
 
 ### Soft Skills
 
-{%Include softskills.md%}
+{%include softskills.md%}
