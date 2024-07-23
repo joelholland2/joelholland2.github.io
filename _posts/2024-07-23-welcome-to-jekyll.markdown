@@ -5,6 +5,7 @@ date:   2024-07-23 15:33:55 +0000
 categories: work
 tags: education
 description: this is an article about education
+highlight_home: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
