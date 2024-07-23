@@ -11,3 +11,12 @@ This opened up opportunities to use those skills (and develop many more) to make
 I'm passionate about developing lasting data solutions in a modern data-centered world. This has lead me to my role as a Business Intelligence Analyst.
 
 I'm currently looking to network with other data professionals to continue my growth in my current and future roles.
+
+## My Skills
+### Technical Skills
+
+{%Include technicalskills.md%}
+
+### Soft Skills
+
+{%Include softskills.md%}
