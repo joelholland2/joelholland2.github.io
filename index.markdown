@@ -4,6 +4,8 @@
 
 layout: home
 title: Hi there! I'm Joel Holland.
+author: Joel Holland
+author_profile: true
 ---
 ![Joel Holland](/assets/images/0G1A2266%20(002).jpg){: .avatar }
 
