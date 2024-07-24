@@ -5,4 +5,6 @@
 layout: home
 title: Hi there! I'm Joel Holland.
 ---
+![Joel Holland](/assets/images/0G1A2266%20(002).jpg){: .avatar }
+
 I am a self-taught programmer. Check out some of my favorite articles and projects below or go to [My Work](/mywork) or [My Writing](/mywriting) to see a categorized list.
