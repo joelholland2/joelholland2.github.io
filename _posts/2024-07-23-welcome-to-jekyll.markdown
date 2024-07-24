@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Journey In Programming
+title:  "My Journey In Programming"
 date:   2024-07-23 15:33:55 +0000
 categories: article
 tags: learning programming
