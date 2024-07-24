@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: posts
 title:  "My Journey In Programming"
 date:   2024-07-23 15:33:55 +0000
 categories: article
 tags: learning programming
 description: this is an article about learning programming 
+header:
+ overlay_image: https://media.istockphoto.com/id/108736678/photo/summer-night-barn.webp?b=1&s=170667a&w=0&k=20&c=Qhf2w4atYsyvu7aQ263K0U3jZURexEv-kXPccUnQzrs=
+ teaser: https://media.istockphoto.com/id/108736678/photo/summer-night-barn.webp?b=1&s=170667a&w=0&k=20&c=Qhf2w4atYsyvu7aQ263K0U3jZURexEv-kXPccUnQzrs=
+ caption: Photo Credit [Unsplash: Tim Newman](https://www.istockphoto.com/portfolio/timnewman?mediatype=photography)
 highlight_home: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
