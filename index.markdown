@@ -4,5 +4,6 @@
 
 layout: home
 ---
+
 # Hi there! I'm Joel Holland
 I am a self-taught programmer. Check out some of my favorite articles and projects below or go to [My Work](/mywork) or [My Writing](/mywriting) to see a categorized list.
