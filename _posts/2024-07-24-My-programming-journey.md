@@ -14,3 +14,5 @@ header:
 description: This is an article about how my programming journey started and what my next steps are
 highlight_home: true
 ---
+
+This is a placeholder
