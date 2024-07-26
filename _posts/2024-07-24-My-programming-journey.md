@@ -6,7 +6,7 @@ tagline: "Test"
 tags: [Programming]
 author_profile: true
 author: Joel Holland
-categories: [article]
+categories: 
 header:
     overlay_image: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
     teaser: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
