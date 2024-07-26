@@ -2,7 +2,7 @@
 layout: posts
 title: "My Data Engineering Journey"
 date: 2024-07-26 12:00:00 -0800
-tagline: "Learning"
+tagline: "My Journey Into Data Engineering"
 tags: [Data Engineering]
 author_profile: true
 author: Joel Holland
