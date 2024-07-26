@@ -17,6 +17,8 @@ highlight_home: true
 
 # My Journey in Data Engineering
 
+Below is my journey to where I'm at now in my career, what I'm doing now, and what I'm striving for in the future.
+
 ## My Career Background
 
 My journey isn't orthodox (I expect few Data professionals would consider their journey to be orthodox). 
