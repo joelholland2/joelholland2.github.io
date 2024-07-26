@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Joel Holland
+author_profile: true
 ---
 
 # Hi! I'm Joel Holland
