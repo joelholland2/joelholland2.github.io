@@ -1,15 +1,29 @@
 technical:
-- title: CSS & SCSS
+- title: Microsoft Azure
+  level: Beginner
+- title: Microsoft Power BI
   level: Intermediate
-- title: HTML5
+- title: Salesforce Reporting/CRMA
+  level: Beginner    
+- title: SQL
   level: Intermediate
-- title: JavaScript
+- title: VBA
   level: Advanced
-- title: ReactJS
+- title: Excel/Access
   level: Advanced
+- title: R
+  level: Intermediate
+- title: Python
+  level: Beginner  
 
 soft:
-- title: Writing
-  level: Intermediate
-- title: Leadership
-  level: Intermediate
+- title: Communication
+  level: Advanced
+- title: Organization Skills
+  level: Advanced
+- title: Project Management
+  level: Advanced  
+- title: Operational Efficiency
+  level: Advanced
+- title: Data Analysis
+  level: Advanced  
