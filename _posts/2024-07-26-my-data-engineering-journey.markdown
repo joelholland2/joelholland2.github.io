@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "My Data Engineering Journey"
 date: 2024-07-26 14:04:00 -0800
 tagline: "Learning"
