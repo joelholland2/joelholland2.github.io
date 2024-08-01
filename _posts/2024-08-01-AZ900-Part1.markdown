@@ -2,16 +2,16 @@
 layout: posts
 title: "My Journey to the AZ-900: Part 1"
 date: 2024-08-01 12:00:00 -0800
-tagline: "How I'm preparing to take the AZ 900 Certification Exam"
+tagline: "How I'm preparing to take the AZ-900 Certification Exam"
 tags: [Data Engineering, Learning, Certifications, AZ-900]
 author_profile: true
 author: Joel Holland
 categories: [article]
 header:
-    overlay_image: https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-    teaser: https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-    caption: "Photo credit: [**Microsoft**](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)"
-description: This is the first of several articles detailing my prep for the AZ-900
+  overlay_image: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+  teaser: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+  caption: "Photo credit: [**Microsoft**](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)"
+description: "This is the first of several articles detailing my prep for the AZ-900"
 highlight_home: false
 ---
 
