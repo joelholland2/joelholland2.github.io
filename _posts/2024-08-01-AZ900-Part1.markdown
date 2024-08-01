@@ -66,7 +66,7 @@ In other words you virtualization allows for as many instances of these pieces t
 
 |1|Processor|Memory|Hard Disk|
 |2|<span style="font-size:20px;">Processor</span>|<span style="font-size:20px;">Memory</span>|<span style="font-size:20px;">Hard Disk</span>|
-|3|Processor|Memory|Hard Disk|
+|3|<span style="font-size:8px;">Processor</span>|<span style="font-size:8px;">Memory</span>|<span style="font-size:8px;">Hard Disk</span>|
 
 ## Key Characteristics of Cloud Computing
 
