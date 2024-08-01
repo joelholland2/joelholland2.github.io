@@ -3,7 +3,9 @@ layout: posts
 title: "My Technical Certification Guide"
 date: 2024-08-01 12:00:00 -0800
 tagline: "How I'm continuing my data engineering education via certifications"
-tags: [Data Engineering] [Certifications]
+tags: 
+    - Data Engineering
+    - Certifications
 author_profile: true
 author: Joel Holland
 categories: [article]
