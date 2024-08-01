@@ -56,6 +56,8 @@ Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business h
 
 ## Virtualization is the Foundation for Cloud
 
+ 
+
 ## Key Characteristics of Cloud Computing
 
 ## Understand Infrastructure as a Service (Iaas)
