@@ -44,8 +44,8 @@ From Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts:
 
 | Traditional IT Stack      |
 |:-----------:|
-| Data       |
-| Application       |
+| <span style="background-color:yellow">Data</span>       |
+| <span style="background-color:yellow">Application</span>       |
 | Framework & runtime       |
 | Patches & Hotfixes       |
 | Operation System       |
