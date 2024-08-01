@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "My Technical Certification Guide"
-date: 2024-08-01 12:00:00 -0800
+date: 2024-08-01 12:00:00 -0700
 tagline: "The Technical Certifications I'm pursuing for Data Engineering"
 tags: [Data Engineering, Learning, Certifications]
 author_profile: true
