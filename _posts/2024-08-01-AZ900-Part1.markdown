@@ -42,7 +42,7 @@ From Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts:
 
 "Cloud computing is the delivery of any computing resources from the IT stack as a service, by a cloud service provider"
 
-Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business had to own all of this. However they really only care about *<span style="color:white; background-color:green">this</span>*. The rest is typically expensive to set up and maintain and has very little benefit to be owned by a company. Azure can provide all of *<span style="color:white; background-color:gray">this</span>*, so you don't have to.
+Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business had to own all of this. However they really only care about *<span style="color:white; background-color:green">this</span>*. The rest is typically expensive to set up and maintain and has very little benefit to be owned by a company. Azure can provide all of *<span style="color:white; background-color:gray">this</span>*, so you don't have to. Additionally, cloud computing can seamlessly break into smaller or larger parts, and for all practical purposes is endless in terms of capabilities/resources. Traditionally the ability to expand and contract in size or number of components would be labor, time, and cost intensive.
 
 | Traditional IT Stack      |
 |:-----------:|
