@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "My AZ-900 Certification Guide: Part 1"
-date: 2024-07-26 12:00:00 -0800
+date: 2024-08-01 12:00:00 -0800
 tagline: "How I'm preparing for the AZ-900 Certification Exam"
 tags: [Data Engineering, Learning, Certifications, AZ-900]
 author_profile: true
