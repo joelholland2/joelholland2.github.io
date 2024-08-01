@@ -8,16 +8,16 @@ author_profile: true
 author: Joel Holland
 categories: [article]
 header:
-    overlay_image: https://images.unsplash.com/photo-1690585703267-de31ea667ef0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    teaser: https://images.unsplash.com/photo-1690585703267-de31ea667ef0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    caption: "Photo credit: [**Unsplash: Walkator**](https://unsplash.com/@walkator)"
+    overlay_image: https://images.unsplash.com/photo-1541797873665-6d4cc148885f?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    teaser: https://images.unsplash.com/photo-1541797873665-6d4cc148885f?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    caption: "Photo credit: [**Unsplash: Robert Anasch**](https://unsplash.com/@diesektion)"
 description: This is an article about how my Data Engineering journey started and what my next steps are
 highlight_home: true
 ---
 
-##Issue: My skills and knowledge of different technologies & development principals as it relates to Data Engineering need a lot of work. 
+#Issue: My skills and knowledge of different technologies & development principals as it relates to Data Engineering need a lot of work. 
 
-##Solution: Formally train myself via Certifications where available, self-educate via books when certifications don't exist, then practice, practice, practice
+#Solution: Formally train myself via Certifications where available, self-educate via books when certifications don't exist, then practice, practice, practice
 
 The below serves as a reference for what technologies I'm focused on and the certifications/resources I'll be working on.
 
