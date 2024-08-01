@@ -38,6 +38,20 @@ The remainder of this article will be focused on what I learned from the first c
 
 ## What is Cloud Computing?
 
+From Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts:
+
+"Cloud computing is the delivery of any computing resources from the IT stack as a service, by a cloud service provider"
+
+| Traditional IT Stack      |
+|:-----------:|
+| Data       |
+| Application       |
+| Framework & runtime       |
+| Patches & Hotfixes       |
+| Operation System       |
+| Power, Colling, Internet       |
+| Physical Space       |
+
 ## Virtualization is the Foundation for Cloud
 
 ## Key Characteristics of Cloud Computing
