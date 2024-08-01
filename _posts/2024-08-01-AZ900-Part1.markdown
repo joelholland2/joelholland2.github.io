@@ -56,7 +56,16 @@ Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business h
 
 ## Virtualization is the Foundation for Cloud
 
- 
+ <u>There are 3 elementary pieces of a computer:</u>
+ |Processor|Memory|Hard Disk|
+
+Virtualization not only allows you to replicate these pieces, but gives mobility to them.
+
+In other words you virtualization allows for as many instances of these pieces to operate independently and unaware of eachother on the same system and allows you to scale the size of those pieces up or down as needed.
+
+|1|Processor|Memory|Hard Disk|
+|2|<span style="font-size:20px;">Processor</span>|<span style="font-size:20px;">Memory</span>|<span style="font-size:20px;">Hard Disk</span>|
+|3|Processor|Memory|Hard Disk|
 
 ## Key Characteristics of Cloud Computing
 
