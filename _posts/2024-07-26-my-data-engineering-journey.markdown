@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "My Data Engineering Journey"
-date: 2024-07-26 12:00:00 -0800
+date: 2024-07-26 12:00:00 -0700
 tagline: "The story of how I decided to get into Data Engineering"
 tags: [Data Engineering]
 author_profile: true
