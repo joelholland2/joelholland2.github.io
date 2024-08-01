@@ -26,7 +26,7 @@ This Certification is there to show you know the basics of Azure, and really ser
 # Resources I'll be using
 While there's many resources to prep for the AZ-900, including free ones from Microsoft, I choose to go with a learning path that I have access for free through my company.
 
-This [Learning Path](www.linkedinaz900.com) is led by Kunal D Mehta and is broken into 4 courses:
+This [Learning Path](https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-fundamentals-az-900-certification) is led by Kunal D Mehta and is broken into 4 courses:
 - Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts
 - Microsoft Azure Fundamentals (AZ-900) Cert Prep: 2 Azure Architecture and Security
 - Microsoft Azure Fundamentals (AZ-900) Cert Prep: 3 Azure Services
