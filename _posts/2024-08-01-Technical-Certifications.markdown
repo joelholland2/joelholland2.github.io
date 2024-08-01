@@ -3,7 +3,7 @@ layout: posts
 title: "My Technical Certification Guide"
 date: 2024-07-26 12:00:00 -0800
 tagline: "The Technical Certifications I'm pursuing for Data Engineering"
-tags: [Data Engineering]
+tags: [Data Engineering, Learning, Certifications]
 author_profile: true
 author: Joel Holland
 categories: [article]
@@ -11,7 +11,7 @@ header:
     overlay_image: https://images.unsplash.com/photo-1541797873665-6d4cc148885f?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     teaser: https://images.unsplash.com/photo-1541797873665-6d4cc148885f?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     caption: "Photo credit: [**Unsplash: Robert Anasch**](https://unsplash.com/@diesektion)"
-description: This is an article about how my Data Engineering journey started and what my next steps are
+description: This is an article about the Technical Certifications I'm pursuing
 highlight_home: true
 ---
 
