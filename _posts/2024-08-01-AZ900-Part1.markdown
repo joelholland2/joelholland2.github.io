@@ -42,17 +42,17 @@ From Microsoft Azure Fundamentals (AZ-900) Cert Prep: 1 Cloud Concepts:
 
 "Cloud computing is the delivery of any computing resources from the IT stack as a service, by a cloud service provider"
 
-Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business had to own all of this. However they really only care about ***<span style="color:white; background-color:green">this</span>***
+Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business had to own all of this. However they really only care about *<span style="color:white; background-color:green">this</span>*. The rest is typically expensive to set up and maintain and has very little benefit to be owned by a company. Azure can provide all of *<span style="color:white; background-color:gray">this</span>*, so you don't have to.
 
 | Traditional IT Stack      |
 |:-----------:|
-| <span style="color:white; background-color:green">Data</span>       |
-| <span style="color:white; background-color:green">Application</span>       |
-| Framework & runtime       |
-| Patches & Hotfixes       |
-| Operation System       |
-| Power, Colling, Internet       |
-| Physical Space       |
+| *<span style="color:white; background-color:green">Data</span>*       |
+| *<span style="color:white; background-color:green">Application</span>*       |
+| *<span style="color:white; background-color:gray">Framework & runtime</span>*       |
+| *<span style="color:white; background-color:gray">Patches & Hotfixes</span>*       |
+| *<span style="color:white; background-color:gray">Operation System</span>*       |
+| *<span style="color:white; background-color:gray">Power, Colling, Internet</span>*       |
+| *<span style="color:white; background-color:gray">Physical Space</span>*       |
 
 ## Virtualization is the Foundation for Cloud
 
