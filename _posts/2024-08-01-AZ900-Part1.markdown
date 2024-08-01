@@ -57,6 +57,7 @@ Below you'll find a table with the Traditional IT Stack. Pre-cloud, a business h
 ## Virtualization is the Foundation for Cloud
 
  <u>There are 3 elementary pieces of a computer:</u>
+ ||||
  |Processor|Memory|Hard Disk|
 
 Virtualization not only allows you to replicate these pieces, but gives mobility to them.
