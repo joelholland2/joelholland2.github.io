@@ -89,7 +89,7 @@ Resource provisions are automatic, so you don't have a reliance on others when a
 ## Understand Infrastructure as a Service (Iaas)
 IaaS is 1/3 of is offered via Cloud Services, focused on the hardware
 
-In other words, the *<span style="color:white; background-color:gray">below</span>* is handled by the cloud and being used by itself would give the customer full control of the operating environment.
+In other words, the *<span style="color:white; background-color:green">below</span>* is handled by the cloud and being used by itself would give the customer full control of the operating environment.
 
 | Traditional IT Stack      |
 |:-----------:|
