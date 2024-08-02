@@ -70,6 +70,21 @@ In other words you virtualization allows for as many instances of these pieces t
 
 ## Key Characteristics of Cloud Computing
 
+There are 4 Key Characteristics of Cloud Computing:
+- Resource Pooling
+- Elasticity
+- Pay per Use
+- Automation
+
+### Resource Pooling
+Technical term to describe the ability to use the cloud to access as much/as many resources as needed. Applies to processor, memory & hard disk
+### Elasticity
+Allows you to scale up or down your resources infinitely
+### Pay per Use
+You only pay for what you use & for how long you used it for
+### Automation
+Resource provisions are automatic, so you don't have a reliance on others when adjustments are needed.
+
 ## Understand Infrastructure as a Service (Iaas)
 
 ## Understand Platform as a Service (Paas)
