@@ -219,4 +219,4 @@ Estimate costs for services and applications
 Extend support for business and technical queries
 Integrate with existing and third-party products
 
-# Up Next >> Part 2: Azure Architecture and Security
+# Up Next >> [Part 2: Azure Architecture and Security]()
