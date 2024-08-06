@@ -163,9 +163,21 @@ Public Clouds share physical resources, but virtualization ensures they're dedic
 
 ## Understand Private Cloud
 
+Private Clouds are Single Tenancy Hardware owned by the corportation. Largely used by those not comfortable with public clouds or where it is illegal for a public cloud to be used. 
+
+Both private clouds and traditional on-prem IT stacks are managed internally, but private clouds offer greater flexibility, automation, and scalability, akin to public cloud environments. 
+
+Traditional on-prem IT stacks tend to involve more manual management and less dynamic resource allocation.
+
+Resources are still limited compared to a public cloud and can be less reliable in terms of disaster recovery failovers.
+
 ## Understand Hybrid Cloud
 
+Hybrid clouds allows for the best of both worlds, allowing for the control and security of a private cloud, but the potential processing power (cloud burst) of the public cloud if needed, as well as a much more resilient disaster recovery (i.e. more regions availalble for failovers)
+
 ## Understand Sovereign Clouds
+
+Some countries have cloud space utilizes purely by that country's government organizations, or in China's case, some organizations within that country. Effectively a private cloud, but at a country level and with limited tenants to have greater security than what's offered by the public cloud.
 
 ## Understand Elasticity
 
