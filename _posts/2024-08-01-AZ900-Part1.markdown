@@ -181,16 +181,42 @@ Some countries have cloud space utilizes purely by that country's government org
 
 ## Understand Elasticity
 
+As application load expands, so does the infrastructure. WHen that load decreases, so does the provisioned resources. This refers to the number of resources, as well as the size of those resources.
+
 ## Understand Scalability
+
+Scalability can be vertical or horizontal. Vertical Scaling refers to the increase in the size of the resources for an instance. Horizontal Scaling refers to the increase of instances needed. When an application can do both, it's considered a scalable application.
 
 ## Understand High-Availability
 
+High Availability's goal is to maximize up time and minimize downtime by allowing for nearly seamless planned and unplanned failovers.
+
 ## Understand Fault Tolerance
+
+Usually this is handled by the operating system, but it's also built into all cloud service models.
 
 ## Understand Disaster Recovery
 
+Public Cloud's allows for a more robust disaster recovery by allowing Off-Site backups in a different region to be established. That way if a major disaster hits a primary location, it won't have the consequence of an extended downtime or even potential full destruction of a company's infrastructure.
+
 ## Understand Security in the Cloud
 
+A cloud should be security-centric
+Industry standard encryption at rest and in transit
+Tools for identity and access management
+Multi-layered approach for end to end protection
+Proactive prevention over passive cure
+Unified pane for deeper insights into the security
+Logs for auditing and tracking
+
 ## Understand Management and Governance
+
+A cloud should be intuitive to manage
+Industry standards and regulatory compliance
+Myriad of services, tools, and utilities configure
+Monitor, report, alert, and reccomend best practices
+Estimate costs for services and applications
+Extend support for business and technical queries
+Integrate with existing and third-party products
 
 # Up Next >> Part 2: Azure Architecture and Security
