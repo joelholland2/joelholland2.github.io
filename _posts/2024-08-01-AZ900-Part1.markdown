@@ -158,6 +158,7 @@ To summarize the last few sections, depending on the level of service, the cloud
 Public Clouds share physical resources, but virtualization ensures they're dedicated to you and can't be accessed by other tenants who are a part of that public cloud's multi-tenancy. It is extremely well protected.
 
 ||Secure Data||Cloud||Multi-tenancy||
+|:-----------:| :-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |Tenant|Tenant|Tenant|Tenant|Tenant|Tenant|Tenant|
 
 ## Understand Private Cloud
