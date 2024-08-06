@@ -87,9 +87,9 @@ You only pay for what you use & for how long you used it for
 Resource provisions are automatic, so you don't have a reliance on others when adjustments are needed.
 
 ## Understand Infrastructure as a Service (Iaas)
-IaaS is 1/3 of is offered via Cloud Services, focused on the hardware
+IaaS is 1/3 of what is offered via Cloud Services, focused on the hardware
 
-In other words, the *<span style="color:white; background-color:green">below</span>* is handled by the cloud and being used by itself would give the customer full control of the operating environment.
+In other words, the *<span style="color:white; background-color:green">below</span>* is handled by the cloud and being used by itself would give the customer full responsibility of the operating environment, application, and data.
 
 | Traditional IT Stack      |
 |:-----------:|
@@ -104,9 +104,54 @@ In other words, the *<span style="color:white; background-color:green">below</sp
 
 ## Understand Platform as a Service (Paas)
 
+PaaS is 2/3 of what is offered via Cloud Services, focused on all that is offered via Iaas + the Platform.
+
+In other words, the *<span style="color:white; background-color:green">below</span>* is handled by the cloud and being used by itself would give the customer responsibility for only the application and data.
+
+| Traditional IT Stack      |
+|:-----------:|
+| *<span style="color:white; background-color:gray">Data</span>*       |
+| *<span style="color:white; background-color:gray">Application</span>*       |
+| *<span style="color:white; background-color:green">Framework & runtime</span>*       |
+| *<span style="color:white; background-color:green">Patches & Hotfixes</span>*       |
+| *<span style="color:white; background-color:green">Operation System</span>*       |
+| *<span style="color:white; background-color:green">Hardware</span>*       |
+| *<span style="color:white; background-color:green">Power, Colling, Internet</span>*       |
+| *<span style="color:white; background-color:green">Physical Space</span>*       |
+
 ## Understand Software as a Service (Saas)
 
+SaaS is 3/3 of what is offered via Cloud Services, focused on all that is offered via Iaas + Paas + the Software.
+
+There's limited application availability, however minimal configuration and time is needed to get started using the full IT stack.
+
+In other words, the *<span style="color:white; background-color:green">below</span>* is handled by the cloud and being used would give the customer responsibility for only the data.
+
+| Traditional IT Stack      |
+|:-----------:|
+| *<span style="color:white; background-color:gray">Data</span>*       |
+| *<span style="color:white; background-color:green">Application</span>*       |
+| *<span style="color:white; background-color:green">Framework & runtime</span>*       |
+| *<span style="color:white; background-color:green">Patches & Hotfixes</span>*       |
+| *<span style="color:white; background-color:green">Operation System</span>*       |
+| *<span style="color:white; background-color:green">Hardware</span>*       |
+| *<span style="color:white; background-color:green">Power, Colling, Internet</span>*       |
+| *<span style="color:white; background-color:green">Physical Space</span>*       |
+
 ## Understand the Shared Responsibility Model
+
+To summarize the last few sections, depending on the level of service, the cloud service provider and the business have varying levels of responsibility as demonstrated in the table below:
+
+| Traditional IT Stack | On-Premises | Iaas | Paas | Saas |
+|:-----------:| 
+| *Data* | Business | Business | Business | Business |
+| *Application* |Business | Business | Business | CSP |
+| *Framework & runtime* |Business | Business | CSP | CSP |
+| *Patches & Hotfixes*  |Business | Business | CSP | CSP |
+| *Operation System* |Business | Business | CSP | CSP |
+| *Hardware* |Business | CSP | CSP | CSP |
+| *Power, Colling, Internet* |Business | CSP | CSP | CSP |
+| *Physical Space* |Business | CSP | CSP | CSP |
 
 ## Understand Public Cloud
 
