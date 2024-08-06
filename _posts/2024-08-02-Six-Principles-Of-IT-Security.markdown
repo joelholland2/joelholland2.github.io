@@ -53,15 +53,68 @@ While there are various parties responsible for each of the above, we all have i
 - [Pull Requests, PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) - process to ensure proper validations and approvals are in place. Ensure your code is reviewed by your peers, in order to meet branch policies for your project.
 - Jira to GitHub integration - Ensures traceability of the code to requirements
 
-### Principal 2: 
+#### JFrog Artifactory
 
-### Principal 3: Protecting Credentials & Data
+Artifactory is integrated with JFrog XRay, which allows for analysis that helps scan artifacts, builds and release bundles for Open Source Software (OSS) components.  
 
-### Principal 4: Managing Access
+It also detects security vulnerabilities and validates licenses in the software components.  
 
-### Principal 5: Ensuring you always build resiliency into your systems and applications
+#### Enterprise standard CI/CD frameworks
 
-### Principal 6: Recognize that you are a highly prized target in your industry
+Without going into too much detail, is effectively a standardized approach across multiple groups, project types, applications, data warehouses, etc. that can be used to plan, develop, troubleshoot, and deploy various technology/code based projects.
+
+### Principal 2: Protecting Credentials
+
+Credential attacks are prevalent in most network intrusions
+
+#### Common exposed credentials include:
+- Service Accounts
+- Admin Passwords
+- API Tokens & Keys
+- SNMP Community Strings
+- SSH Keys and Private Key Pairs for Certificates
+
+#### Common exposed credential locations include:
+- Committed Code
+- Shell Scripts
+- Scheduled Tasks
+- Group Policy
+- SNMP
+- Config Files
+- Word Docs
+- Email
+- Confluence
+- ServiceNow
+
+#### Code Repos:
+- Treasure Trove for criminals
+- GitHub remembers everything committed unless you explicitly delete it
+- Enterprises will often have centralized code repos managed by specific teams who actively identify any security risks in commited code.
+- Best practice is to not expose passwords directly in code, instead refer to config files, which in turn can execute commands while protecting credentials
+
+#### Scheduled Tasks:
+- Local system credential vaults are vulnerable to attack
+- Running tasks as "system", or leveraging existing automation systems is a better alternative
+
+#### Group Policy:
+- Avoid using Group Policy to set systems passwords
+- Instead using something like Windows LAPS and Privileged Access Management (PAM) allows for more secure credentials
+
+#### SNMP Community Strings
+- As a potential user of SNMP you need to:
+    - Leverage a complex and non-default string name
+    - Use the strongest transport security (SNMPv3)
+
+#### In General
+- Never use clear text or weak credential protection
+
+### Principal 3: Managing Access
+
+### Principal 4: Ensuring you always build resiliency into your systems and applications
+
+### Principal 5: Recognize that you are a highly prized target in your industry
+
+### Principal 6: 
 
 ## Conclusion
 
