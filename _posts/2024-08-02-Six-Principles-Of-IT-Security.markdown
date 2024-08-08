@@ -109,12 +109,32 @@ Credential attacks are prevalent in most network intrusions
 - Never use clear text or weak credential protection
 
 ### Principal 3: Managing Access
+- An important piece of protecting cloud and mobile enabled environments is verifying:
+    - Who is trying to gain access (Authentication) &
+    - Validating what they are approved to access (Authorization)
+- Multi-factor authentication (MFA) provides an extra layer of security and reduces the risk of a security breach allowing sensitive data to stay protected. 
+- Integrating a time-based one-time password, via an authenticator application or device, goes a layer deeper because it helps achieve a zero-trust security remotely.
+- Forced Single Sign-on (SSO) does not give users the option to use a password, but instead links their application access to an existing domain authentication.
+    - This allows an end user to automatically log-in and access the app, i.e. MS Office or Workday.
+    - Not only is forced SSO more secure, but:
+        - Provides peace of mind to ensure enforcement of password policies
+        - Enables business user access as they join a new team
+        - Can be leveraged to enable multi-factor authentication
+        - Enforce password re-entry when a certain amount of time passes
+- Least privilege enforcement ensures the user or automated tool has the requisite access needed – and nothing more.
 
-### Principal 4: Ensuring you always build resiliency into your systems and applications
+### Principal 4: Protect the Data
+In addition to protecting credentials, we also need to protect data as it travels between systems, endpoints and to our partners and vendors. 
 
-### Principal 5: Recognize that you are a highly prized target in your industry
+Some methods to accomplish this include: 
+- Mobile Encryption
+- Cloud Technologies
+- Preventing Confidential Data Storage in Clear Text Logs
+- Data Minimization
 
-### Principal 6: 
+### Principal 5: Building Resiliency Into Systems And Apps
+
+### Principal 6: Recognize that you are a highly prized target in your industry
 
 ## Conclusion
 
