@@ -132,9 +132,36 @@ Some methods to accomplish this include:
 - Preventing Confidential Data Storage in Clear Text Logs
 - Data Minimization
 
-### Principal 5: Building Resiliency Into Systems And Apps
+### Principal 5: Building Resiliency Into Systems And Apps (always plan for failure)
+Some of the worst impacts form attackes result form the inability to access systems and data:
+- Do your due diligence to ensure your systems, applications and data remain available or are recoverable in the event of catastrophic failure due to a cyber-attack.
+- Understand the impact of a system or service failure.
+- Identify the possible failure points in the system when designing systems. This includes internal and external dependencies such as identity providers and third party services.
+- Identify each failure according to its overall risk. Consider these factors: 
+    - What is the likelihood of the failure? Is it relatively common? Extremely rare? You don't need exact numbers; the purpose is to help rank the priority. 
+    - What is the impact on the application in terms of availability, data loss, monetary cost, and business disruption?
+- For each failure mode, determine how the application will respond and recover. Consider tradeoffs in cost and application complexity.
+- Ensure backup of systems and data.  All archives should employ encryption. All backups of your systems and data require regular testing.  
 
-### Principal 6: Recognize that you are a highly prized target in your industry
+### Principal 6: Realize you are targeted as a Privileged User
+- Your goal is to prevent the criminals from gaining access to sessions and system memory or installing software on any of your systems including workstations, laptops and smartphones.
 
-## Conclusion
+- Session Hijacking Defense: Session persistence allows attackers to reuse token and cookies as a method to gain access to a system while impersonating you. 
+    - Ensure you log out of websites when done
+    - Never click on website pop-ups
+    - If your browser displays a warning about a website you are trying to access, pay attention and obtain the information from a more reliable source
+    - Only go to sites using HTTPS
+    - Only open email attachments if you trust the sender and are expecting the attachment
+    - Be on the watch for phishing attempts
+    - Ensure your systems receive regular updates and patches
 
+- Multiple Account Management: When accessing systems or services with elevated permissions for technical tasks, you should always utilize your separate administrative account. This account is isolated and better protected from the typical attacks that we all experience while working at our desktops. 
+    - The administrative account is:
+        - Purpose designed, and non-administrative use exposes the credentials in locations that criminals access with various tools and techniques.
+        - Administrative accounts should utilize MFA to prevent a direct capture and use of the credentials.
+
+- Sharing Information: Many of us interact daily with technical peers or assist business peers with their technology issues.
+    - You can help defend systems by doing the following:
+        - Be on the lookout for unsolicited incoming calls asking you to take technical action or expose personal/technical information.
+        - If you receive these types of communication, validate the person to ensure they are approved to receive the information.
+        - Make sure you enforce the seemingly small items while managing systems. This adds up to a big defense when we all work to protect privileged access on the network.
