@@ -37,6 +37,9 @@ My immediate next step is to start working on the Microsoft Certifications AZ-90
 - GitHub Advanced Security
 - GitHub Admin
 
+## JFrog Artifactory - [JFrog Provided](https://examregistration.github.com/login?ReturnUrl=%2Foverview](https://jfrog.com/certification/):
+- JFrog Artifactory DevOps Certification
+
 ## Jira/Confluence/ServiceNow - [Atlassian Provided](https://university.atlassian.com/student/activity/836769-get-certified):
 ### [Associate](https://university.atlassian.com/student/catalog/list?category_ids=33661-associate-certifications):
 - Atlassian Cloud Foundations
