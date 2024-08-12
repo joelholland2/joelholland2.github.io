@@ -1,0 +1,16 @@
+---
+layout: posts
+title: "My Study of The Data Warehouse Toolkit: Chapter 1"
+date: 2024-08-12 12:00:00 -0700
+tagline: "My notes from studying the Data Warehouse Toolkit: Chapter 1"
+tags: [Data Engineering, Learning, Data Warehouse, Dimensional Modeling]
+author_profile: true
+author: Joel Holland
+categories: [article]
+header:
+    overlay_image: 
+    teaser: 
+    caption: 
+description: This is an article about my study of the Kimball Method of Data Warehousing
+highlight_home: false
+---
