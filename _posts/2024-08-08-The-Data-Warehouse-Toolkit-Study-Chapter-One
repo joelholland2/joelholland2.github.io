@@ -14,3 +14,17 @@ header:
 description: This is an article about my study of the Kimball Method of Data Warehousing
 highlight_home: false
 ---
+The Kimball Method of Dimensional Modeling is one of the original and most widely respected methods to base the design of a Data Warehouse after. The Data Warehouse is the official and definitive guide for this method, and while it has been around for some time, has stood the test of time and continues to be extremely relevant even in today's modern data landscape.
+
+This and other posts to follow document my journey in learning this methodology via the Data Warehouse Toolkit
+
+# Chapter 1: Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
+## Different Worlds of Data Capture and Data Analysis
+## Goals of Data Warehousing and Business Intelligence
+### Publishing Metaphor for DW/BI Managers
+## Dimensional Moedling Introduction
+### Star Schemas Versus OLAP Cubes
+### Fact Tables for Measurements
+### Dimension Tables for Descriptive Context
+### Facts and Dimensions Joined in a Star Schema
+
