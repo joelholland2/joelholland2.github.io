@@ -19,12 +19,40 @@ The Kimball Method of Dimensional Modeling is one of the original and most widel
 This and other posts to follow document my journey in learning this methodology via the Data Warehouse Toolkit
 
 # Chapter 1: Data Warehousing, Business Intelligence, and Dimensional Modeling Primer
+
+- The Business needs and processes are what drive the decisions regarding the datawarehouse logical and physical designs, as well as technology and tools.
+- A Data Warehousing Project requires you to be one half DBA and one half MBA (business analyst)
+
 ## Different Worlds of Data Capture and Data Analysis
+- A business's information is one of its most important assets
+- its operational systems are where the data goes in, the dw/bi is where the data cones out
+- Operational Systems are optimized to help the business do their work and do it fast and typically don't maintain history
+- DW/BI systems on the other hand are looking to make decisions and evaluate performance based on how the operational data changes over time
+- The goal of a DW/BI system should bot be to merely be a replica of the data contained in the operational system, but to create an environment where users can use the data efficiently and effectively to make decisions and evaluate performance
+
 ## Goals of Data Warehousing and Business Intelligence
 ### Publishing Metaphor for DW/BI Managers
-## Dimensional Moedling Introduction
+## Dimensional Modeling Introduction
 ### Star Schemas Versus OLAP Cubes
 ### Fact Tables for Measurements
 ### Dimension Tables for Descriptive Context
 ### Facts and Dimensions Joined in a Star Schema
+## Kimball's DW/BI Architecture 
+### Operational Source Systems
+### Extract,Transform, and Load System
+### Presentation Area to Support Business
+### Business Intelligence Applications
+### Restraunt Metaphor for the Kimball Architecture
+## Alternative DW/BI Architecture
+### Independent Data Mart Architecture 
+### Hub-and-Spoke and Kimball Architecture
+## Dimesnsional Modeling Myths
+### Myth 1: Dimensional Models are Only for Summary Data
+### Myth 2: Dimensional Models are Departmental, Not Enterprise 
+### Myth 3: Dimensional Models are Not Scalable
+### Myth 4: Dimensional Models are Only for Predictable Usage
+### Myth 5: Dimensional Models Can't be Integrated
+## More reasons to think Dimensionally
+## Agile Considerations
+
 
